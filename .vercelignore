@@ -1,0 +1,10 @@
+.git
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+node_modules
+venv
+.venv
+artifacts/saved_model.pkl
